@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Jiacheng-Han/Jiacheng-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Jun Chen 👋 
+## Hi, I'm Jiacheng Han 👋 
 [![website](https://img.shields.io/badge/-personal%20page-important?style=plastic&logo=MEGA)](https://jiacheng-han.github.io/)
 <!-- <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=jiacheng-han&show_icons=true"> -->
 
