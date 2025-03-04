@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Jiacheng Han 👋 
-[![website](https://img.shields.io/badge/-personal%20page-important?style=plastic&logo=MEGA)](https://jiacheng-han.github.io/)
+[![website](https://img.shields.io/badge/-personal%20website-important?style=plastic&logo=MEGA)](https://jiacheng-han.github.io/)
 <!-- <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=jiacheng-han&show_icons=true"> -->
 
 - 🎓 I’m a third year undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/).
