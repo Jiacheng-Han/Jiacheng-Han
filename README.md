@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/-personal%20website-important?style=plastic&logo=MEGA)](https://jiacheng-han.github.io/)
 <!-- <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=jiacheng-han&show_icons=true"> -->
 
-- 🎓 I’m a **third year** undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/).
+- 🎓 I’m a **forth year** undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/).
 - 🔭 Working on **Medical Image Processing** and **Computer Vision** recently.
-- 📚 I’m preparing for master’s recommendation. You can learn more about my schedule at my [to-do-list](https://jiacheng-han.github.io/posts/2025/01/BAOYAN/).
+- 📚 I’m preparing for master’s recommendation.
 - 📫 How to reach me: hanjiacheng@bistu.edu.cn
