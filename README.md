@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 - 🎓 I’m a **forth year** undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/).
 - 🔭 Working on **Medical Image Processing** and **Computer Vision** recently.
-- 📚 I’m preparing for master’s recommendation.
 - 📫 How to reach me: hanjiacheng@bistu.edu.cn
