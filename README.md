@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!-- <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=jiacheng-han&show_icons=true"> -->
 
 - 🎓 I’m a **forth year** undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/).
-- 🔭 Working on **Medical Image Processing** and **Computer Vision** recently.
+- 🔭 Working on **Multimodal Large Language Models** and **Medical Image Processing** recently.
 - 📫 How to reach me: hanjiacheng@bistu.edu.cn
