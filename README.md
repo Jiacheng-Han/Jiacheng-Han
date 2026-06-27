@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/-personal%20website-important?style=plastic&logo=MEGA)](https://jiacheng-han.github.io/)
 <!-- <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=jiacheng-han&show_icons=true"> -->
 
-- 🎓 I’m a **forth year** undergraduate student from School of computer, [Beijing Information Science & Technology University](https://www.bistu.edu.cn/).
+- 🎓 I’m a **first-year** graduate student from School of Computer, [Southeast University](https://www.seu.edu.cn/).
 - 🔭 Working on **Multimodal Large Language Models** and **Medical Image Processing** recently.
-- 📫 How to reach me: hanjiacheng@bistu.edu.cn
+- 📫 How to reach me: hanjiacheng1028@163.com
